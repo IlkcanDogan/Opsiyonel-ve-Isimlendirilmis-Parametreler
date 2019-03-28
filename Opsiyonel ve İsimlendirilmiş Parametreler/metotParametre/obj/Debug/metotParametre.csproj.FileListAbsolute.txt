@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\metotParametre\metotParametre\bin\Debug\metotParametre.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\metotParametre\metotParametre\bin\Debug\metotParametre.exe
+c:\users\mka\documents\visual studio 2012\Projects\metotParametre\metotParametre\bin\Debug\metotParametre.pdb
+c:\users\mka\documents\visual studio 2012\Projects\metotParametre\metotParametre\obj\Debug\metotParametre.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\metotParametre\metotParametre\obj\Debug\metotParametre.exe
+c:\users\mka\documents\visual studio 2012\Projects\metotParametre\metotParametre\obj\Debug\metotParametre.pdb
